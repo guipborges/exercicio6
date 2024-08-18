@@ -1,3 +1,5 @@
+//Calcule o tamanho de um string informado pelo usuário (não usar nenhuma função para isso, tal como strlen() ou lenght());
+
 //biblioteca padrao
 #include <iostream>
 #include <stdlib.h> //gets
